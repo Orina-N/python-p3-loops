@@ -9,7 +9,7 @@ function happyNewYear() {
     counter--;
   }
   console.log("Happy New Year!");
-}
+};
 
 /* 
   Write a method `fizzbuzz_printer` that prints the numbers from 1 to 100. For
